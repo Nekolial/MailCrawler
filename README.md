@@ -5,16 +5,8 @@ O Mail Finder é uma ferramenta Python poderosa e fácil de usar para encontrar 
 
 Recursos:
 
-    Varredura de URL: Fornece a capacidade de realizar varreduras em uma URL específica em busca de endereços de e-mail.
-    Filtragem Avançada: Filtra e exibe apenas os endereços de e-mail relevantes para um determinado domínio.
-    Personalização: Permite personalizar a busca para encontrar e-mails de acordo com padrões específicos, como por exemplo, apenas os endereços de e-mail que terminam com determinada extensão.
-
-Como usar:
-
-    Instalação: Basta clonar este repositório e executar o script Python mail_finder.py.
-    Varredura de URL: Insira a URL alvo quando solicitado e deixe o Mail Finder fazer o resto.
-    Exploração de Resultados: Examine os endereços de e-mail encontrados e ajuste as configurações conforme necessário para refinar sua busca.
-
-Esta ferramenta é útil para profissionais de segurança da informação, pesquisadores de segurança cibernética e qualquer pessoa interessada em encontrar informações de contato relevantes em páginas da web.
+    git clone https://github.com/Nekolial/MailCrawler.git
+    cd CrawlerSociety
+    python3 MailCrawler.py
 
 Autor: Nekolial
